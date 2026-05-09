@@ -1,38 +1,30 @@
-# lab2
+# Calendar App 📅 
+A weekly-based calendar app built using Vue JS (Front-End Framework).
 
-This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+## Features
+- View the events for each day of the week.
+- Add new events to any selected day.
+- Edit the events.
+- Remove the events.
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Recommended Browser Setup
+## Technologies
+- Vue JS
+- HTML
+- CSS
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+## Screenshots
 
-## Customize configuration
+![Calendar Main Screen](screenshots/1.png)
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+![Adding an Event](screenshots/2.png)
 
-## Project Setup
+![New Main Screen](screenshots/3.png)
 
-```sh
-npm install
-```
+![Edit Event](screenshots/4.png)
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+## How to Run the Web App
+1. Clone the repository into a folder.
+2. Open the folder in VS Code.
+3. In the command line, run 'npm run dev'.
